@@ -1,0 +1,2 @@
+labelImg C:\Users\Admin\Documents\TensorFlow\workspace\training_demo\images
+xX_N00b_Slayer69_Xx
