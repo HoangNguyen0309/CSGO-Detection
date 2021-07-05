@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ima566.png</filename>
+	<path>C:\Users\quan nguyen\TensorFlow\workspace\training_demo\images\ima566.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>796</xmin>
+			<ymin>463</ymin>
+			<xmax>1147</xmax>
+			<ymax>904</ymax>
+		</bndbox>
+	</object>
+</annotation>
