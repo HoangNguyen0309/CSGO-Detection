@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ima731.png</filename>
+	<path>C:\Users\quan nguyen\TensorFlow\workspace\training_demo\images\ima731.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ct</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>813</xmin>
+			<ymin>498</ymin>
+			<xmax>1138</xmax>
+			<ymax>1002</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ct</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>429</ymin>
+			<xmax>350</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+</annotation>
