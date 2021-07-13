@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Image 283.png</filename>
+	<path>C:\Users\Admin\Documents\TensorFlow\workspace\training_demo\images\Image 283.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>782</xmin>
+			<ymin>433</ymin>
+			<xmax>1215</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>t</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>670</xmin>
+			<ymin>571</ymin>
+			<xmax>751</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+</annotation>
