@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Image 186.png</filename>
+	<path>C:\Users\Admin\Documents\TensorFlow\workspace\training_demo\images\Image 186.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ct</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>654</xmin>
+			<ymin>441</ymin>
+			<xmax>1129</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>
