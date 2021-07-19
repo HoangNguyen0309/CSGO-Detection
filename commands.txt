@@ -1,2 +1,6 @@
 labelImg C:\Users\Admin\Documents\TensorFlow\workspace\training_demo\images
+
+
+python -m pip install --use-deprecated=legacy-resolver
+
 xX_N00b_Slayer69_Xx
