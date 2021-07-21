@@ -1,1 +1,4 @@
 python model_main_tf2.py --model_dir=models/my_faster_rcnn_resnet50_v1_640x640_coco17_tpu-8 --pipeline_config_path=models/my_faster_rcnn_resnet50_v1_640x640_coco17_tpu-8/pipeline.config
+
+
+tensorboard --logdir=models/my_faster_rcnn_resnet50_v1_640x640_coco17_tpu-8
