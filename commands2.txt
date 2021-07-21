@@ -2,3 +2,7 @@ python model_main_tf2.py --model_dir=models/my_faster_rcnn_resnet50_v1_640x640_c
 
 
 tensorboard --logdir=models/my_faster_rcnn_resnet50_v1_640x640_coco17_tpu-8
+
+
+python .\exporter_main_v2.py --input_type image_tensor --pipeline_config_path .\models\my_faster_rcnn_resnet50_v1_640x640_coco17_tpu-8\pipeline.config --trained_checkpoint_dir .\models\my_faster_rcnn_resnet50_v1_640x640_coco17_tpu-8\ --output_directory .\exported-models\my_model
+
